@@ -40,7 +40,7 @@ The objective is to transform raw transactional data into actionable business in
 
 ## Files Included
 - `Ecommerce_Sales_Analysis.xlsx` — Analysis workbook containing the source data, formula analysis, pivot analysis, dashboard, and data quality checks.
-- `dashboard_preview.png` — Dashboard screenshot (to be added).
+- `DashboardPreview1.png , DashboardPreview2.png` — Dashboard screenshots.
 
 ## Business Recommendations
 - Maintain the availability of strong revenue-generating products.
