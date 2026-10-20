@@ -1,6 +1,13 @@
 # E-commerce Sales Analysis Dashboard
 
 ## Project Overview
+### Dashboard Preview — Part 1
+
+![Dashboard Preview 1](Dashboard%20Preview%201.png)
+
+### Dashboard Preview — Part 2
+
+![Dashboard Preview 2](Dashboard%20Preview%202.png)
 This project analyses a synthetic e-commerce dataset containing 1,500 orders, 100 products, and 300 customers. It uses spreadsheet analysis techniques to evaluate sales performance, profitability, customer segments, sales channels, order fulfilment, and data quality.
 
 The objective is to transform raw transactional data into actionable business insights through formulas, pivot tables, and an interactive dashboard.
